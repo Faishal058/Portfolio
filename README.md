@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Live Demo](https://img.shields.io/badge/Live_Demo-faishal--rahman.vercel.app-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://faishal-rahman.vercel.app)
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-faishalrahman.vercel.app-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://faishalrahman.vercel.app)
   [![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
   [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)](https://tailwindcss.com/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
