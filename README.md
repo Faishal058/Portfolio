@@ -1,102 +1,87 @@
-# 🌟 Faishal Rahman Ansari — Modern Engineering Portfolio
+# 🌟 Faishal Rahman Ansari
 
 <div align="center">
   
-  [![Live Demo](https://img.shields.io/badge/Live_Demo-faishalrahman.vercel.app-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://faishalrahman.vercel.app)
-  [![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-  [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)](https://tailwindcss.com/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Website](https://img.shields.io/badge/Live_Portfolio-faishalrahman.vercel.app-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://faishalrahman.vercel.app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faishal-rahman-ansari/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faishal058)
+  [![Email](https://img.shields.io/badge/Email-faishalrahman729580@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faishalrahman729580@gmail.com)
   
-  <p align="center">
-    <strong>A high-end, responsive developer portfolio featuring a premium Deep Space-Purple & Black glowing theme, hardware-accelerated fluid animations, an interactive SaaS dashboard preview, and a custom recruiter shell.</strong>
-  </p>
 </div>
 
 ---
 
-## 🎨 Premium Visual Theme & Experience
+## 👋 About Me
 
-The portfolio has been fully upgraded to deliver a jaw-dropping first impression with a **luxury SaaS-dashboard aesthetic**:
-* 🌌 **Space-Black Canvas (`#030014`)**: A gorgeous, deep cosmic-black backdrop carrying sophisticated violet undertones.
-* 🔮 **Dynamic Viewport Spotlights**: Ambient top-left violet and bottom-right fuchsia/indigo blur spots that breathe and drift organic-style via GPU-accelerated CSS keyframes.
-* 🥂 **Glossy Translucent Panels**: Translucent glassmorphism panels (`rgba(9, 5, 29, 0.55)` with `rgba(139, 92, 246, 0.12)` thin borders) that allow spotlight flows to bleed underneath.
-* ⌨️ **Interactive Recruiter Terminal**: A fully functional interactive terminal overlay that simulates an engineering terminal, allowing recruiters to execute commands like `skills`, `projects`, and `contact` inside an in-browser shell.
-* 🚀 **Custom Monogram Icon**: Integrates a highly personalized, custom red-orange "F" monogram favicon for polished browser-tab branding.
+I’m **Faishal Rahman Ansari**, a highly passionate **Computer Science & Engineering graduate** based in Bangalore, India. I specialize in building scalable **Full Stack Applications**, designing intelligent **AI/ML Solutions**, and conducting deep **Data Analytics** to solve real-world problems.
+
+I recently completed my **B.E. in Computer Science & Engineering** from the **Sambhram Institute of Technology** with an **8.54 CGPA**, equipping me with solid foundations in software engineering, database systems, data structures, and algorithms. I love architecting elegant, highly performant digital tools with sleek typography and smooth user experiences.
 
 ---
 
-## 🛠️ Technical Stack & Tooling
+## 🛠️ Technical Skill Set
 
-### Core Frontend Architecture
-* **Framework**: **Next.js 14** (App Router, Static Pre-rendering, Server Components)
-* **Language**: **TypeScript** (100% Type-Safe)
-* **Styling**: **TailwindCSS** (Vanilla Utility Design System)
-* **Animations**: **Framer Motion** & **GSAP (ScrollTrigger & SplitType)**
-* **Layout Utilities**: **Lucide Icons**, **CN Utility (Clsx/Tailwind-Merge)**
+### 💻 Frontend & Styling
+* **Languages & Frameworks**: React, TypeScript, JavaScript (ES6+), HTML5, CSS3.
+* **Styling & UI**: Tailwind CSS, Framer Motion, GSAP, Responsive Design, Web Accessibility.
 
-### Backend & Project Specialties
-* **Full Stack**: Java, Spring Boot, PostgreSQL, React
-* **AI & Machine Learning**: Python, TensorFlow, Deep Learning (CNN/LSTM networks), IBM Watson AutoAI
-* **Integrations**: Web3Forms API (Real-time email contact deliveries)
+### ⚙️ Backend & Database
+* **Core Technologies**: Java, Spring Boot, Node.js, Hibernate, RESTful APIs, MVC Architecture.
+* **Databases**: PostgreSQL, MySQL, Relational Database Management Systems (RDBMS).
 
----
-
-## ⚡ Production & Performance Optimizations
-
-Engineered to score perfect metrics on PageSpeed audits and load instantly:
-1. **Next.js Compiler Optimization (`next.config.mjs`)**:
-   * **SWC Minifier**: Rust-based compilation and lightning-fast static builds.
-   * **Production Console Stripping**: Removes all `console.log` executions in production to ensure raw JavaScript runtime speed.
-   * **Tree-Shaking**: Custom `experimental.optimizePackageImports` settings to automatically tree-shake heavy UI packages like `lucide-react`, `framer-motion`, and `gsap`.
-2. **First Input Paint Optimization**:
-   * **Font-Display Swap**: Set to `display: "swap"` on Google Fonts (`Space_Grotesk`, `JetBrains_Mono`, `Playfair_Display`) to prevent invisible text lag on slower network connections.
-   * **FOUC Prevention**: Modified the text reveals to pre-hide raw text containers during client-side hydration, preventing layout shifts (CLS) when GSAP animations activate.
-3. **Hardware Acceleration (Compositor Layers)**:
-   * Promoted heavy glowing blurs, floating panels, and pulsing spotlights to their own GPU compositor layer using CSS `will-change` properties and 3D transforms (`translateZ(0)`), guaranteeing scrolling performance at **60fps**.
+### 🤖 AI, Machine Learning & Analytics
+* **AI/ML & NLP**: Python, TensorFlow, Deep Learning (CNN, LSTM), Natural Language Processing, Large Language Models (LLMs), IBM Watson AutoAI.
+* **Data Science & Tools**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Power BI.
+* **Cloud & DevOps**: Git, AWS (Solutions Architecture, Elastic Beanstalk, RDS), IBM Cloud.
 
 ---
 
-## 🚀 Running Locally
+## 🚀 Featured Engineering Solutions
 
-Follow these quick steps to launch the workspace on your machine:
+### 🧠 1. Privacy-Preserving Parkinson's Detection (AI & ML)
+* Designed a diagnostic framework utilizing speech biomarkers, Mel-spectrograms, and CNN-LSTM architectures.
+* Implemented privacy-focused **Machine Unlearning** and evaluated adversarial robustness to balance diagnosis accuracy with patient data protection.
+* **Tech**: TensorFlow, Python, Librosa, Scikit-Learn, CNN, LSTM.
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Faishal058/Portfolio.git
-cd Portfolio
-```
+### 💰 2. WealthWise (Full Stack)
+* Built a sleek portfolio management and financial analytics platform designed for tracking investments and visual growth analysis.
+* Engineered secure user accounts and responsive dashboard controls.
+* **Tech**: Java, Spring Boot, PostgreSQL, React, REST APIs, Git.
+* [Live Demo](https://wealthwise-financials.vercel.app)
 
-### 2. Install Dependencies
-```bash
-npm install
-```
+### 📈 3. Airbnb Hotel Booking Analysis (Data Analytics)
+* Performed exploratory data analysis (EDA) to map hotel pricing triggers, occupancy parameters, and market trends.
+* Formulated predictive analytics models to support strategic hospitality operations.
+* **Tech**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn.
 
-### 3. Setup Local Environments
-Create a `.env.local` file in the root folder and add your Web3Forms Access Key:
-```env
-NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY=your_key_here
-```
-*(To get a free key, simply enter your email at [web3forms.com](https://web3forms.com))*
+### 🔮 4. NSAP Scheme Classifier (AI & ML)
+* Designed and deployed an automated classification pipeline using IBM Watson AutoAI for eligibility screening under India's National Social Assistance Programme (NSAP).
+* **Tech**: IBM Watson AutoAI, IBM Cloud, Machine Learning, Python.
 
-### 4. Run the Development Server
-```bash
-npm run dev
-```
-Open [http://localhost:3000](http://localhost:3000) inside your browser to view the portfolio.
+### 🛒 5. Quick-Needs (Full Stack / Hackathon Winner 🥇)
+* Winner of the **1st Place Award** at the Presidency University Invincia 2024 Hackathon!
+* Front-end of a hyperlocal vendor delivery web platform designed to empower local vendors and streamline weekly grocery schedules.
+* **Tech**: HTML, CSS, JavaScript, Responsive UI.
+
+---
+
+## 🏆 Certifications & Achievements
+
+* **🥇 1st Place Winner** — Invincia 2024 Hackathon, Presidency University (Built *Quick Needs* delivery framework).
+* **☁️ AWS APAC Solutions Architecture** — Forage Virtual Experience (Designed high-availability hosting environments using Elastic Beanstalk and RDS).
+* **🤖 Getting Started with AI** — IBM SkillsBuild (Neural networks, deep learning models, and data pipelines).
+* **☁️ Journey to Cloud — Cloud Basics** — IBM SkillsBuild (Virtualized cloud instances, container models, and service deployments).
 
 ---
 
-## ☁️ Deployment
+## 📞 Get in Touch
 
-This project is fully ready for zero-downtime hosting on **Vercel** or **Netlify**:
-
-* **Framework Preset**: Next.js
-* **Build Command**: `npm run build`
-* **Output Directory**: Next.js default (Auto-detected `.next`)
-* **Environment Variables**: Make sure to add `NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY` to your Vercel settings under Project Settings -> Environment Variables.
-
----
+* **📍 Location**: Bangalore, India
+* **📧 Email**: [faishalrahman729580@gmail.com](mailto:faishalrahman729580@gmail.com)
+* **📞 Phone**: [+91 916-203-8134](tel:+919162038134)
+* **💼 LinkedIn**: [/in/faishal-rahman-ansari](https://www.linkedin.com/in/faishal-rahman-ansari/)
+* **🐙 GitHub**: [/Faishal058](https://github.com/Faishal058)
 
 <div align="center">
-  Made with 🤍 and ⚡ by Faishal Rahman Ansari
+  <em>Let's build something meaningful together! ⚡</em>
 </div>
